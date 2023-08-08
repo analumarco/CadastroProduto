@@ -1,0 +1,11 @@
+C:\Users\2022102020057\source\repos\cadastro produto\cadastro produto\bin\Debug\cadastro produto.exe.config
+C:\Users\2022102020057\source\repos\cadastro produto\cadastro produto\bin\Debug\cadastro produto.exe
+C:\Users\2022102020057\source\repos\cadastro produto\cadastro produto\bin\Debug\cadastro produto.pdb
+C:\Users\2022102020057\source\repos\cadastro produto\cadastro produto\obj\Debug\cadastro produto.csproj.AssemblyReference.cache
+C:\Users\2022102020057\source\repos\cadastro produto\cadastro produto\obj\Debug\cadastro produto.csproj.SuggestedBindingRedirects.cache
+C:\Users\2022102020057\source\repos\cadastro produto\cadastro produto\obj\Debug\cadastro_produto.Form1.resources
+C:\Users\2022102020057\source\repos\cadastro produto\cadastro produto\obj\Debug\cadastro_produto.Properties.Resources.resources
+C:\Users\2022102020057\source\repos\cadastro produto\cadastro produto\obj\Debug\cadastro produto.csproj.GenerateResource.cache
+C:\Users\2022102020057\source\repos\cadastro produto\cadastro produto\obj\Debug\cadastro produto.csproj.CoreCompileInputs.cache
+C:\Users\2022102020057\source\repos\cadastro produto\cadastro produto\obj\Debug\cadastro produto.exe
+C:\Users\2022102020057\source\repos\cadastro produto\cadastro produto\obj\Debug\cadastro produto.pdb
